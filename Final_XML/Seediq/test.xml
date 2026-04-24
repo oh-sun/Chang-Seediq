@@ -1,261 +1,256 @@
-<S id="S3-1">
-  <FORM>holi s-usa-un-mu klaali</FORM>
-  <W>
-    <FORM>holi</FORM>
-    <TRANSL lang:xml="zho">埔里</TRANSL>
-  </W>
-  <W>
-    <FORM>s-usa-un-mu</FORM>
-    <TRANSL lang:xml="zho">S-去-PF-我</TRANSL>
-    <M>
-      <FORM>s</FORM>
-      <TRANSL lang:xml="zho">S</TRANSL>
-    </M>
-    <M>
-      <FORM>usa</FORM>
-      <TRANSL lang:xml="zho">去</TRANSL>
-    </M>
-    <M>
-      <FORM>un</FORM>
-      <TRANSL lang:xml="zho">PF</TRANSL>
-    </M>
-    <M>
-      <FORM>mu</FORM>
-      <TRANSL lang:xml="zho">我</TRANSL>
-    </M>
-  </W>
-  <W>
-    <FORM>klaali</FORM>
-    <TRANSL lang:xml="zho">每天</TRANSL>
-  </W>
-  <TRANSL lang:xml="zho">我每天去埔里</TRANSL>
-</S>
-
-<S id="S3-2">
-  <FORM>mupu-puhulis-nami</FORM>
-  <W>
+<?xml version="1.0" ?>
+<TEXT id="C3" xml:lang="trv" copyright="台邦撒沙. 原住民族委員會 / 國史館 / 國史館臺灣文獻館" citation="台邦撒沙. (2016). KUCAPUNGANE: 魯凱族好茶部落歷史研究. 原住民族委員會 / 國史館 / 國史館臺灣文獻館." BibTeX_citation="@book{kucapungane2016, author={台邦撒沙}, year={2016}, title={KUCAPUNGANE: 魯凱族好茶部落歷史研究}, publisher={原住民族委員會 / 國史館 / 國史館臺灣文獻館}}" dialect="Wutai"> 
+  <S id="S3-1">
+    <FORM>holi s-usa-un-mu klaali</FORM>
+    <W>
+      <FORM>holi</FORM>
+      <TRANSL lang:xml="zho">埔里</TRANSL>
+    </W>
+    <W>
+      <FORM>s-usa-un-mu</FORM>
+      <TRANSL lang:xml="zho">S-去-PF-我</TRANSL>
+      <M>
+        <FORM>s</FORM>
+        <TRANSL lang:xml="zho">S</TRANSL>
+      </M>
+      <M>
+        <FORM>usa</FORM>
+        <TRANSL lang:xml="zho">去</TRANSL>
+      </M>
+      <M>
+        <FORM>un</FORM>
+        <TRANSL lang:xml="zho">PF</TRANSL>
+      </M>
+      <M>
+        <FORM>mu</FORM>
+        <TRANSL lang:xml="zho">我</TRANSL>
+      </M>
+    </W>
+    <W>
+      <FORM>klaali</FORM>
+      <TRANSL lang:xml="zho">每天</TRANSL>
+    </W>
+    <TRANSL lang:xml="zho">我每天去埔里</TRANSL>
+  </S>
+  <S id="S3-2">
     <FORM>mupu-puhulis-nami</FORM>
-    <TRANSL lang:xml="zho">互相-笑-我們</TRANSL>
-    <M>
-      <FORM>mupu</FORM>
-      <TRANSL lang:xml="zho">互相</TRANSL>
-    </M>
-    <M>
-      <FORM>puhulis</FORM>
-      <TRANSL lang:xml="zho">笑</TRANSL>
-    </M>
-    <M>
-      <FORM>nami</FORM>
-      <TRANSL lang:xml="zho">我們</TRANSL>
-    </M>
-  </W>
-  <TRANSL lang:xml="zho">我們互相笑對方</TRANSL>
-</S>
-
-<S id="S3-3">
-  <FORM>k-um-ubunux heya</FORM>
-  <W>
-    <FORM>k-um-ubunux</FORM>
-    <TRANSL lang:xml="zho">戴-AF-帽子</TRANSL>
-    <M>
-      <FORM>k</FORM>
-      <TRANSL lang:xml="zho">戴</TRANSL>
-    </M>
-    <M>
-      <FORM>um</FORM>
-      <TRANSL lang:xml="zho">AF</TRANSL>
-    </M>
-    <M>
-      <FORM>ubunux</FORM>
-      <TRANSL lang:xml="zho">帽子</TRANSL>
-    </M>
-  </W>
-  <W>
-    <FORM>heya</FORM>
-    <TRANSL lang:xml="zho">他</TRANSL>
-  </W>
-  <TRANSL lang:xml="zho">他戴著帽子</TRANSL>
-</S>
-
-<S id="S3-4">
-  <FORM>mugu-huling pawan kusun</FORM>
-  <W>
-    <FORM>mugu-huling</FORM>
-    <TRANSL lang:xml="zho">變成-狗</TRANSL>
-    <M>
-      <FORM>mugu</FORM>
-      <TRANSL lang:xml="zho">變成</TRANSL>
-    </M>
-    <M>
-      <FORM>huling</FORM>
-      <TRANSL lang:xml="zho">狗</TRANSL>
-    </M>
-  </W>
-  <W>
-    <FORM>pawan</FORM>
-    <TRANSL lang:xml="zho">pawan</TRANSL>
-  </W>
-  <W>
-    <FORM>kusun</FORM>
-    <TRANSL lang:xml="zho">明天</TRANSL>
-  </W>
-  <TRANSL lang:xml="zho">明天pawan會變成狗</TRANSL>
-</S>
-
-<S id="S3-5">
-  <FORM>mun-teru-ku m-eyah hini</FORM>
-  <W>
-    <FORM>mun-teru-ku</FORM>
-    <TRANSL lang:xml="zho">次-三-我</TRANSL>
-    <M>
-      <FORM>mun</FORM>
-      <TRANSL lang:xml="zho">次</TRANSL>
-    </M>
-    <M>
-      <FORM>teru</FORM>
-      <TRANSL lang:xml="zho">三</TRANSL>
-    </M>
-    <M>
-      <FORM>ku</FORM>
-      <TRANSL lang:xml="zho">我</TRANSL>
-    </M>
-  </W>
-  <W>
-    <FORM>m-eyah</FORM>
-    <TRANSL lang:xml="zho">AF-來</TRANSL>
-    <M>
-      <FORM>m</FORM>
-      <TRANSL lang:xml="zho">AF</TRANSL>
-    </M>
-    <M>
-      <FORM>eyah</FORM>
-      <TRANSL lang:xml="zho">來</TRANSL>
-    </M>
-  </W>
-  <W>
-    <FORM>hini</FORM>
-    <TRANSL lang:xml="zho">這裡</TRANSL>
-  </W>
-  <TRANSL lang:xml="zho">我來這裡三次了</TRANSL>
-</S>
-
-<S id="S3-6">
-  <FORM>pukubunux-ku di</FORM>
-  <W>
-    <FORM>pukubunux-ku</FORM>
-    <TRANSL lang:xml="zho">要戴帽子-我</TRANSL>
-    <M>
-      <FORM>pukubunux</FORM>
-      <TRANSL lang:xml="zho">要戴帽子</TRANSL>
-    </M>
-    <M>
-      <FORM>ku</FORM>
-      <TRANSL lang:xml="zho">我</TRANSL>
-    </M>
-  </W>
-  <W>
-    <FORM>di</FORM>
-    <TRANSL lang:xml="zho">了</TRANSL>
-  </W>
-  <TRANSL lang:xml="zho">我要戴帽子了</TRANSL>
-</S>
-
-<S id="S3-7">
-  <FORM>peekan ido laqi ka bubu</FORM>
-  <W>
-    <FORM>peekan</FORM>
-    <TRANSL lang:xml="zho">餵飯</TRANSL>
-  </W>
-  <W>
-    <FORM>ido</FORM>
-    <TRANSL lang:xml="zho">小孩</TRANSL>
-  </W>
-  <W>
-    <FORM>laqi</FORM>
-    <TRANSL lang:xml="zho">主格</TRANSL>
-  </W>
-  <W>
-    <FORM>ka</FORM>
-    <TRANSL lang:xml="zho">（標記）</TRANSL>
-  </W>
-  <W>
-    <FORM>bubu</FORM>
-    <TRANSL lang:xml="zho">媽媽</TRANSL>
-  </W>
-  <TRANSL lang:xml="zho">媽媽餵小孩吃飯</TRANSL>
-</S>
-
-<S id="S3-8">
-  <FORM>mu-puhuling pawan kusun</FORM>
-  <W>
-    <FORM>mu-puhuling</FORM>
-    <TRANSL lang:xml="zho">未來式-打獵</TRANSL>
-    <M>
-      <FORM>mu</FORM>
-      <TRANSL lang:xml="zho">未來式</TRANSL>
-    </M>
-    <M>
-      <FORM>puhuling</FORM>
-      <TRANSL lang:xml="zho">打獵</TRANSL>
-    </M>
-  </W>
-  <W>
-    <FORM>pawan</FORM>
-    <TRANSL lang:xml="zho">pawan</TRANSL>
-  </W>
-  <W>
-    <FORM>kusun</FORM>
-    <TRANSL lang:xml="zho">明天</TRANSL>
-  </W>
-  <TRANSL lang:xml="zho">pawan明天要打獵</TRANSL>
-</S>
-
-<S id="S3-9">
-  <FORM>gaga sudara riyung pawan</FORM>
-  <W>
-    <FORM>gaga</FORM>
-    <TRANSL lang:xml="zho">現在式</TRANSL>
-  </W>
-  <W>
-    <FORM>sudara</FORM>
-    <TRANSL lang:xml="zho">流血</TRANSL>
-  </W>
-  <W>
-    <FORM>riyung</FORM>
-    <TRANSL lang:xml="zho">很</TRANSL>
-  </W>
-  <W>
-    <FORM>pawan</FORM>
-    <TRANSL lang:xml="zho">pawan</TRANSL>
-  </W>
-  <TRANSL lang:xml="zho">pawan現在流血很多</TRANSL>
-</S>
-
-<S id="S3-10">
-  <FORM>egu tulaqi-un na awe</FORM>
-  <W>
-    <FORM>egu</FORM>
-    <TRANSL lang:xml="zho">多</TRANSL>
-  </W>
-  <W>
-    <FORM>tulaqi-un</FORM>
-    <TRANSL lang:xml="zho">生小孩-PF</TRANSL>
-    <M>
-      <FORM>tulaqi</FORM>
-      <TRANSL lang:xml="zho">生小孩</TRANSL>
-    </M>
-    <M>
-      <FORM>un</FORM>
-      <TRANSL lang:xml="zho">PF</TRANSL>
-    </M>
-  </W>
-  <W>
-    <FORM>na</FORM>
-    <TRANSL lang:xml="zho">屬格</TRANSL>
-  </W>
-  <W>
-    <FORM>awe</FORM>
-    <TRANSL lang:xml="zho">awe</TRANSL>
-  </W>
-  <TRANSL lang:xml="zho">awe生了很多小孩</TRANSL>
-</S>
+    <W>
+      <FORM>mupu-puhulis-nami</FORM>
+      <TRANSL lang:xml="zho">互相-笑-我們</TRANSL>
+      <M>
+        <FORM>mupu</FORM>
+        <TRANSL lang:xml="zho">互相</TRANSL>
+      </M>
+      <M>
+        <FORM>puhulis</FORM>
+        <TRANSL lang:xml="zho">笑</TRANSL>
+      </M>
+      <M>
+        <FORM>nami</FORM>
+        <TRANSL lang:xml="zho">我們</TRANSL>
+      </M>
+    </W>
+    <TRANSL lang:xml="zho">我們互相笑對方</TRANSL>
+  </S>
+  <S id="S3-3">
+    <FORM>k-um-ubunux heya</FORM>
+    <W>
+      <FORM>k-um-ubunux</FORM>
+      <TRANSL lang:xml="zho">戴-AF-帽子</TRANSL>
+      <M>
+        <FORM>k</FORM>
+        <TRANSL lang:xml="zho">戴</TRANSL>
+      </M>
+      <M>
+        <FORM>um</FORM>
+        <TRANSL lang:xml="zho">AF</TRANSL>
+      </M>
+      <M>
+        <FORM>ubunux</FORM>
+        <TRANSL lang:xml="zho">帽子</TRANSL>
+      </M>
+    </W>
+    <W>
+      <FORM>heya</FORM>
+      <TRANSL lang:xml="zho">他</TRANSL>
+    </W>
+    <TRANSL lang:xml="zho">他戴著帽子</TRANSL>
+  </S>
+  <S id="S3-4">
+    <FORM>mugu-huling pawan kusun</FORM>
+    <W>
+      <FORM>mugu-huling</FORM>
+      <TRANSL lang:xml="zho">變成-狗</TRANSL>
+      <M>
+        <FORM>mugu</FORM>
+        <TRANSL lang:xml="zho">變成</TRANSL>
+      </M>
+      <M>
+        <FORM>huling</FORM>
+        <TRANSL lang:xml="zho">狗</TRANSL>
+      </M>
+    </W>
+    <W>
+      <FORM>pawan</FORM>
+      <TRANSL lang:xml="zho">pawan</TRANSL>
+    </W>
+    <W>
+      <FORM>kusun</FORM>
+      <TRANSL lang:xml="zho">明天</TRANSL>
+    </W>
+    <TRANSL lang:xml="zho">明天pawan會變成狗</TRANSL>
+  </S>
+  <S id="S3-5">
+    <FORM>mun-teru-ku m-eyah hini</FORM>
+    <W>
+      <FORM>mun-teru-ku</FORM>
+      <TRANSL lang:xml="zho">次-三-我</TRANSL>
+      <M>
+        <FORM>mun</FORM>
+        <TRANSL lang:xml="zho">次</TRANSL>
+      </M>
+      <M>
+        <FORM>teru</FORM>
+        <TRANSL lang:xml="zho">三</TRANSL>
+      </M>
+      <M>
+        <FORM>ku</FORM>
+        <TRANSL lang:xml="zho">我</TRANSL>
+      </M>
+    </W>
+    <W>
+      <FORM>m-eyah</FORM>
+      <TRANSL lang:xml="zho">AF-來</TRANSL>
+      <M>
+        <FORM>m</FORM>
+        <TRANSL lang:xml="zho">AF</TRANSL>
+      </M>
+      <M>
+        <FORM>eyah</FORM>
+        <TRANSL lang:xml="zho">來</TRANSL>
+      </M>
+    </W>
+    <W>
+      <FORM>hini</FORM>
+      <TRANSL lang:xml="zho">這裡</TRANSL>
+    </W>
+    <TRANSL lang:xml="zho">我來這裡三次了</TRANSL>
+  </S>
+  <S id="S3-6">
+    <FORM>pukubunux-ku di</FORM>
+    <W>
+      <FORM>pukubunux-ku</FORM>
+      <TRANSL lang:xml="zho">要戴帽子-我</TRANSL>
+      <M>
+        <FORM>pukubunux</FORM>
+        <TRANSL lang:xml="zho">要戴帽子</TRANSL>
+      </M>
+      <M>
+        <FORM>ku</FORM>
+        <TRANSL lang:xml="zho">我</TRANSL>
+      </M>
+    </W>
+    <W>
+      <FORM>di</FORM>
+      <TRANSL lang:xml="zho">了</TRANSL>
+    </W>
+    <TRANSL lang:xml="zho">我要戴帽子了</TRANSL>
+  </S>
+  <S id="S3-7">
+    <FORM>peekan ido laqi ka bubu</FORM>
+    <W>
+      <FORM>peekan</FORM>
+      <TRANSL lang:xml="zho">餵飯</TRANSL>
+    </W>
+    <W>
+      <FORM>ido</FORM>
+      <TRANSL lang:xml="zho">小孩</TRANSL>
+    </W>
+    <W>
+      <FORM>laqi</FORM>
+      <TRANSL lang:xml="zho">主格</TRANSL>
+    </W>
+    <W>
+      <FORM>ka</FORM>
+      <TRANSL lang:xml="zho">（標記）</TRANSL>
+    </W>
+    <W>
+      <FORM>bubu</FORM>
+      <TRANSL lang:xml="zho">媽媽</TRANSL>
+    </W>
+    <TRANSL lang:xml="zho">媽媽餵小孩吃飯</TRANSL>
+  </S>
+  <S id="S3-8">
+    <FORM>mu-puhuling pawan kusun</FORM>
+    <W>
+      <FORM>mu-puhuling</FORM>
+      <TRANSL lang:xml="zho">未來式-打獵</TRANSL>
+      <M>
+        <FORM>mu</FORM>
+        <TRANSL lang:xml="zho">未來式</TRANSL>
+      </M>
+      <M>
+        <FORM>puhuling</FORM>
+        <TRANSL lang:xml="zho">打獵</TRANSL>
+      </M>
+    </W>
+    <W>
+      <FORM>pawan</FORM>
+      <TRANSL lang:xml="zho">pawan</TRANSL>
+    </W>
+    <W>
+      <FORM>kusun</FORM>
+      <TRANSL lang:xml="zho">明天</TRANSL>
+    </W>
+    <TRANSL lang:xml="zho">pawan明天要打獵</TRANSL>
+  </S>
+  <S id="S3-9">
+    <FORM>gaga sudara riyung pawan</FORM>
+    <W>
+      <FORM>gaga</FORM>
+      <TRANSL lang:xml="zho">現在式</TRANSL>
+    </W>
+    <W>
+      <FORM>sudara</FORM>
+      <TRANSL lang:xml="zho">流血</TRANSL>
+    </W>
+    <W>
+      <FORM>riyung</FORM>
+      <TRANSL lang:xml="zho">很</TRANSL>
+    </W>
+    <W>
+      <FORM>pawan</FORM>
+      <TRANSL lang:xml="zho">pawan</TRANSL>
+    </W>
+    <TRANSL lang:xml="zho">pawan現在流血很多</TRANSL>
+  </S>
+  
+  <S id="S3-10">
+    <FORM>egu tulaqi-un na awe</FORM>
+    <W>
+      <FORM>egu</FORM>
+      <TRANSL lang:xml="zho">多</TRANSL>
+    </W>
+    <W>
+      <FORM>tulaqi-un</FORM>
+      <TRANSL lang:xml="zho">生小孩-PF</TRANSL>
+      <M>
+        <FORM>tulaqi</FORM>
+        <TRANSL lang:xml="zho">生小孩</TRANSL>
+      </M>
+      <M>
+        <FORM>un</FORM>
+        <TRANSL lang:xml="zho">PF</TRANSL>
+      </M>
+    </W>
+    <W>
+      <FORM>na</FORM>
+      <TRANSL lang:xml="zho">屬格</TRANSL>
+    </W>
+    <W>
+      <FORM>awe</FORM>
+      <TRANSL lang:xml="zho">awe</TRANSL>
+    </W>
+    <TRANSL lang:xml="zho">awe生了很多小孩</TRANSL>
+  </S>
+</TEXT>
