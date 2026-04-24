@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <TEXT id="C3" xml:lang="trv" copyright="遠流出版事業股份有限公司" source="台灣南島語言@賽德克語參考語法" citation="張永利. (2000). 台灣南島語言@賽德克語參考語法. 遠流出版事業股份有限公司." BibTeX_citation="@book{台灣南島語言@賽德克語參考語法2020, author={張永利}, year={2000}, title={台灣南島語言@賽德克語參考語法}, publisher={遠流出版事業股份有限公司}}" dialect="Tegudaya"> 
-  <S id="S3-1">
+  <S id="S1">
     <FORM>holi s-usa-un-mu klaali</FORM>
     <W>
       <FORM>holi</FORM>
@@ -32,7 +32,7 @@
     </W>
     <TRANSL lang:xml="zho">我每天去埔里</TRANSL>
   </S>
-  <S id="S3-2">
+  <S id="S2">
     <FORM>mupu-puhulis-nami</FORM>
     <W>
       <FORM>mupu-puhulis-nami</FORM>
@@ -52,7 +52,7 @@
     </W>
     <TRANSL lang:xml="zho">我們互相笑對方</TRANSL>
   </S>
-  <S id="S3-3">
+  <S id="S3">
     <FORM>k-um-ubunux heya</FORM>
     <W>
       <FORM>k-um-ubunux</FORM>
@@ -76,7 +76,7 @@
     </W>
     <TRANSL lang:xml="zho">他戴著帽子</TRANSL>
   </S>
-  <S id="S3-4">
+  <S id="S4">
     <FORM>mugu-huling pawan kusun</FORM>
     <W>
       <FORM>mugu-huling</FORM>
@@ -100,7 +100,7 @@
     </W>
     <TRANSL lang:xml="zho">明天pawan會變成狗</TRANSL>
   </S>
-  <S id="S3-5">
+  <S id="S5">
     <FORM>mun-teru-ku m-eyah hini</FORM>
     <W>
       <FORM>mun-teru-ku</FORM>
@@ -136,7 +136,7 @@
     </W>
     <TRANSL lang:xml="zho">我來這裡三次了</TRANSL>
   </S>
-  <S id="S3-6">
+  <S id="S6">
     <FORM>pukubunux-ku di</FORM>
     <W>
       <FORM>pukubunux-ku</FORM>
@@ -156,7 +156,7 @@
     </W>
     <TRANSL lang:xml="zho">我要戴帽子了</TRANSL>
   </S>
-  <S id="S3-7">
+  <S id="S7">
     <FORM>peekan ido laqi ka bubu</FORM>
     <W>
       <FORM>peekan</FORM>
@@ -180,7 +180,7 @@
     </W>
     <TRANSL lang:xml="zho">媽媽餵小孩吃飯</TRANSL>
   </S>
-  <S id="S3-8">
+  <S id="S8">
     <FORM>mu-puhuling pawan kusun</FORM>
     <W>
       <FORM>mu-puhuling</FORM>
@@ -204,7 +204,7 @@
     </W>
     <TRANSL lang:xml="zho">pawan明天要打獵</TRANSL>
   </S>
-  <S id="S3-9">
+  <S id="S9">
     <FORM>gaga sudara riyung pawan</FORM>
     <W>
       <FORM>gaga</FORM>
@@ -225,7 +225,7 @@
     <TRANSL lang:xml="zho">pawan現在流血很多</TRANSL>
   </S>
   
-  <S id="S3-10">
+  <S id="S10">
     <FORM>egu tulaqi-un na awe</FORM>
     <W>
       <FORM>egu</FORM>
